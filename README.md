@@ -78,18 +78,6 @@ frontend/    React + Vite UI
 
 ---
 
-## Screenshot
-
-Place an image here:
-
-```
-frontend/public/screenshot.png
-```
-
-And the README will display it automatically.
-
----
-
 ## License
 
 MIT
